@@ -1,5 +1,4 @@
 # Documentation
-## Table of Contents
 
 ## 1. Objective  
 Design and implement a polynomial calculator capable of performing addition, subtraction, multiplication, division, integration, and derivation operations on two polynomials provided by the user as input. The resulting polynomial after each operation is communicated to the user. The calculator is presented as a minimalist graphical interface, enabling easy usage.  
