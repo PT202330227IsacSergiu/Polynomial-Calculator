@@ -26,19 +26,7 @@ After pressing the operation button (addition [+], subtraction [-], multiplicati
 - **View Class:** Deals with the graphical interface of the calculator, contains components for performing operations, entering data, and displaying results. It also contains a constructor (without parameters), methods for event initialization, accessor methods for data input components, and mutator methods for providing the result.
 - **Controller Class:** Contains a single constructor with a single parameter, an object of the View class, in which the actions performed when the components are used are implemented. These actions are implemented in the object received as a parameter.
 
-## 4. Implementation  
-Refer to code files for detailed implementation.
-
-## 5. Results  
-Tests were run in the OperationsPTest class to verify each operation, including two failed tests for integration and multiplication operations.
-
-## 6. Conclusions  
-Learned about using regex patterns on a String and gained a better understanding of JUnit testing.  
-Possible developments:
-- A more aesthetically pleasing interface.
-- Better validation of user-entered text.
-
-## 7. Bibliography  
+## 4. Bibliography  
 References consulted by the student during the implementation of the project.
 
 Example:
